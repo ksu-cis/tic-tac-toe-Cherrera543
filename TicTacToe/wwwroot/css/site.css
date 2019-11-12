@@ -11,7 +11,26 @@ body {
     padding-left: 15px;
     padding-right: 15px;
 }
-
+.square{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    font-size: 90px;
+    color: purple;
+    text-align: center;
+}
+#grid{
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+svg > path{
+    stroke: black;
+    fill: transparent;
+}
+svg > path:hover{
+    fill: goldenrod;
+}
 /* Carousel */
 .carousel-caption p {
     font-size: 20px;
