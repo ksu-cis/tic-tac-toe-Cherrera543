@@ -56,7 +56,7 @@ using TicTacToe;
             WriteLiteral("\n<h1>Hello World</h1>\n");
             EndContext();
             BeginContext(88, 45, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c94b6a0384b4928812704622d02e772", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "341faf94896843398e6eedb7cb7a1498", async() => {
                 BeginContext(112, 17, true);
                 WriteLiteral("Play Tic-Tac-Toe!");
                 EndContext();
@@ -78,7 +78,7 @@ using TicTacToe;
             WriteLiteral("\n");
             EndContext();
             BeginContext(134, 28, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e147bc67277646a1be917359ea02cbc1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dcbdefa36cb644b7b084d39638fa3ceb", async() => {
                 BeginContext(155, 3, true);
                 WriteLiteral("SVG");
                 EndContext();
